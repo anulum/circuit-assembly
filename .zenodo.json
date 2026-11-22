@@ -1,0 +1,19 @@
+{
+  "creators": [
+    {
+      "affiliation": "ANULUM",
+      "name": "Šotek, Miroslav",
+      "orcid": "0009-0009-3560-0851"
+    }
+  ],
+  "description": "Architecture-only repository validation tooling and design for deterministic IC packaging, multi-die chiplet stacks and test-hardware assembly verification: die-to-package netlists, backside-substrate potential checks, 3D stack specifications, wafer probe cards, load boards and carrier printed circuit boards. No package verifier, chiplet-stack planner, carrier-PCB checker or qualified record schema is released.",
+  "keywords": [
+    "IC packaging",
+    "chiplet 3D integration",
+    "carrier PCB verification",
+    "evidence provenance"
+  ],
+  "license": "AGPL-3.0-or-later",
+  "title": "Circuit Assembly",
+  "upload_type": "software"
+}
