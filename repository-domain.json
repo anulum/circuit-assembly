@@ -3,13 +3,14 @@
   "claims": [],
   "domain_runtime_dependencies": [],
   "evidence_maturity": "architecture_only",
-  "lifecycle": "local_scaffold",
+  "lifecycle": "public_repository",
   "owner_group": "SC-NEUROMORPHIC-COMPUTING-SYSTEMS",
   "planned_owned_schema_ids": [
     "circuit_assembly.assembly_view.v1",
     "circuit_assembly.assembly_package.v1",
     "circuit_assembly.chiplet_and_3d_stack_spec.v1"
   ],
+  "public_remote": "https://github.com/anulum/circuit-assembly",
   "qualified_owned_schema_ids": [],
   "repository_name": "CIRCUIT-ASSEMBLY",
   "tooling_python": {

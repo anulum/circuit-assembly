@@ -2,11 +2,11 @@
   "capabilities": [],
   "claims": [],
   "evidence_maturity": "architecture_only",
-  "lifecycle": "local_scaffold",
+  "lifecycle": "public_repository",
   "qualified_owned_schema_ids": [],
   "repository_name": "CIRCUIT-ASSEMBLY",
   "source_metadata": {
     "path": "repository-domain.json",
-    "sha256": "e0b588d067d031238a15826787e3c633a308c7976a3a849a907b79940d945ea1"
+    "sha256": "afed6aa3f52d848a777bffad9336be3d6016bb9d9ee929e96da0af37335a45f8"
   }
 }

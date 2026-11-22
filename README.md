@@ -12,6 +12,8 @@ CIRCUIT-ASSEMBLY — repository foundation
 
 Circuit Assembly is being built to design and verify die-to-package bondwire and flip-chip maps, `3Dblox`/`BoW`/`UCIe` multi-die chiplet stacks, wafer probe cards, automated-test-equipment load boards and carrier printed circuit boards — cross-checking die-backside substrate potential against conductive or insulating die-attach materials, simultaneous switching noise and electromagnetic compatibility pre-compliance — completely deterministically without AI. This checkout contains repository validation tooling and documentation only. Full foundation qualification is in progress. There is no installed package verifier, chiplet-stack planner, carrier-PCB checker or qualified record schema.
 
+Circuit Assembly is part of the **SC Neuromorphic Computing Systems** group (SC-NEUROMORPHIC-COMPUTING-SYSTEMS). The [group and project map](https://github.com/anulum/sc-neurocore/blob/main/docs/ecosystem.md) shows the whole programme and where this repository sits in it.
+
 **What does not exist yet:**
 - a package/PCB checker, chiplet stack planner or wirebond/substrate verifier;
 - a registered runtime record schema;
